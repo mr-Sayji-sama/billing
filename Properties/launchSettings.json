@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "billing": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://192.168.100.27:5237;https://192.168.100.27:5238"
+    }
+  }
+}
